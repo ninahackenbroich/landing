@@ -1,0 +1,31 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+
+.card-product {
+  width: 300px;
+  padding: 40px;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.card-product img {
+  width: 150px;
+  height: 150px;
+}
+
+.card-product p {
+  font-weight: lighter;
+  font-size: smaller;
+  margin: 0;
+  color: rgb(121, 125, 129);
+}
+
+
+.card-product h2 {
+  margin: 10px 0 0 0;
+}

@@ -1,0 +1,22 @@
+.footer {
+  background-color:rgb(122, 84, 82);
+  text-align: center;
+  padding: 60px;
+  color: #EFB0A1;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  display: inline-block;
+  padding: 10px, 10px;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #EFB0A1;
+  padding: 20px;
+}
